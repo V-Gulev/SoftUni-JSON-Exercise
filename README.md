@@ -1,1 +1,1 @@
-SoftUni Json Exercise
+SoftUni JSON Exercises
